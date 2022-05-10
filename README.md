@@ -47,3 +47,4 @@ python main.py -cam
 "# vision_fire_detection" 
 "# vision_fire_detection" 
 "# vision_fire_detection" 
+"# vision_fire_smoke" 
